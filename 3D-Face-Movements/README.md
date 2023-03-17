@@ -17,16 +17,16 @@
 - ***Face tracking*** Finally, the 3D face model is tracked as the subject moves their head. This can be done by using the estimated pose and updating the position of the 3D face model in the Blender environment.
 
 ---
-## - Installation of Dependencies
+## - Installation of Dependencies'
 
 * Download [Blender](https://www.blender.org/download/)
 * Install Requirement Modules
 
-  pip install opencv-python
+    pip install opencv-python
 
-  pip install numpy
+    pip install numpy
 
-  pip install bpy
+    pip install bpy
 
 ---
 
