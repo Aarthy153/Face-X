@@ -35,9 +35,9 @@
 
 Follow the below command to run the project :
 
-  python run OpenCVAnimOperator.py
+      python run OpenCVAnimOperator.py
 
-  python run OpenCVAnim.py
+      python run OpenCVAnim.py
 
 ---
 ### Final Result
