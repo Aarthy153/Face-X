@@ -22,6 +22,27 @@
 <img src="https://github.com/akshitagupta15june/Face-X/blob/master/Cartoonify-Image/Cartoonify_face_image/Images/recof.gif" width="390px" height="350px" align='center'>
 </div>
 
+## Table of contents
+
+- [Demonstration of different algorithms and operations on faces](#Demonstration-of-different-algorithms-and-operations-on-faces)
+    - [Recognition-Algorithms](#Recognition-Algorithms)
+	- [Face-Recognition-using-IOT](#Face-Recognition-using-IOT)
+	- [Facial Biometric](#Facial-Biometric)
+	- [Snapchat_Filters](#Snapchat-Filters)
+	- [Face-Mask-Detection](#Face-Mask-Detection)
+	- [Awesome-face-operations](#Awesome-face-operations)
+- [How to get started with open source?](#How-to-get-started-with-open-source?)
+- [How to Contribute to Face-X?](#How-to-Contribute-to-Face-X?)
+	- [Installation](#Installation-👇)
+- [Engaging and Collaborating with](#Engaging-and-Collaborating-with)
+- [Get Started with Open Source programs](#Get-Started-with-Open-Source-programs-👨‍💻)
+	- [Project Admin](#❤️-Project-Admin)
+	- [Our valuable Contributors](#Our-valuable-Contributors-👩‍💻-👨‍💻)
+- [Community and Contributing](#Community-and-Contributing)
+- [Code of Conduct](#Code-of-Conduct)
+- [Feedback](#Feedback)
+
+[Back to Top](#Demonstration-of-different-algorithms-and-operations-on-faces)
 
 ##  Demonstration of different algorithms and operations on faces
 
